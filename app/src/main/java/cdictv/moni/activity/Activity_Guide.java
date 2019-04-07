@@ -9,6 +9,7 @@ import cdictv.moni.R;
 
 public class Activity_Guide extends AppCompatActivity implements  Runnable {
 //21321n你好
+    private String s="asdfsdf";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
