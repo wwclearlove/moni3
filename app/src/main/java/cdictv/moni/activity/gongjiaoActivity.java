@@ -29,7 +29,7 @@ import cdictv.moni.network.Mycall;
 import cdictv.moni.network.OkhttpApi;
 
 public class gongjiaoActivity extends AppCompatActivity  {
-
+//nihao
     private ImageView bus_img;
     private TextView bus_time;
     private TextView bus_renshu;
