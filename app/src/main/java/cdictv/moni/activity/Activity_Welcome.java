@@ -9,7 +9,12 @@ import cdictv.moni.util.Sputil;
 
 
 public class Activity_Welcome extends Activity{
-
+    private String s="asdfsdf";
+    private String s2="asdfsdf";
+    private String s3="asdfsdf";
+    private String s4="asdfsdf";
+    private String s5="asdfsdf";
+    private String s6="asdfsdf";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
